@@ -1,0 +1,13 @@
+th,td{
+    border: 5px solid lightslategray; 
+   
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color: yellowgreen;  
+}
+p{
+    background-color: mediumorchid;
+}
